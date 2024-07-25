@@ -18,6 +18,7 @@ Ensure the following packages are added in your pubspec.yaml file
 5) Run flutter application
 flutter run
 
+
 ## Firebase Services Used
 Authentication: For user sign-up and sign-in.
 Firestore: As the real-time database.
